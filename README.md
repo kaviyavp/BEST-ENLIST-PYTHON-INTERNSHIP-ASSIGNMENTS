@@ -5,3 +5,5 @@
   
   DAY 2 - STRINGS
   
+  DAY 3 - SIMPLE REGISTRATION FORM
+  
