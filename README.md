@@ -26,3 +26,9 @@
   DAY 12 - FILE OPERATIONS
   
   DAY 13 - RegEX
+  
+  DAY 14 - TRY & CATCH 
+  
+  DAY 15 -
+  
+  DAY 16 - LAMBDA
